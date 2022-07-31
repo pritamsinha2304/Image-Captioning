@@ -1,0 +1,14 @@
+# Python
+.env
+.dockerignore
+.vscode
+.venv
+docker-compose.yaml
+__pycache__
+models_utils/__pycache__
+models/pytorch_model.bin
+Dockerfile
+log.log
+
+# Node
+front/.vscode
