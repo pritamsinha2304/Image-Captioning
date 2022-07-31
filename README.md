@@ -6,4 +6,8 @@ Currently only <b>jpg</b> and <b>png</b> images are allowed.
 
 The user was presented to upload image files which he/she wants to caption.
 
-<img src="app_images/imgcap_image-1.png" />
+<img src="app_images/imgcap_image_1.png" />
+
+The generated caption will be presented below. The user will be able to upload as many times as the user wants.
+
+<img src="app_images/imgcap_image_3.png" />
